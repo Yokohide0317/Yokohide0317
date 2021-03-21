@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="https://grass-graph.moshimo.works/images/Yokohide0317.png">
+
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
 
 <!--
 **Yokohide0317/Yokohide0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
