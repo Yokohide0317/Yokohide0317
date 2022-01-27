@@ -1,5 +1,3 @@
-個人的に使うリポジトリはGitLabにすべて移行しました。<br>
-(Publicはほぼ無いんだけど...)<br>
 →→→[GitLab](https://gitlab.com/Yokohide0317)
 <br>
 <!--<img src="https://i1.wp.com/nobon.me/wp-content/uploads/2016/02/tumblr_o1lcumzQ0P1uf9lyxo1_500.gif?fit=500%2C315&ssl=1">
