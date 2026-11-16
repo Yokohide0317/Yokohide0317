@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on **Bioinformatics**
 
+<h3 align="left">Portfolio:</h3>
+https://nauti-82z.pages.dev/
+
 <h3 align="left">My Page:</h3>
 https://qiita.com/Yokohide
 <p align="left">
