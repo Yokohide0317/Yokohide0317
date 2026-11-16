@@ -1,12 +1,7 @@
-<h1 align="center">Yokohide0317</h1>
-<h3 align="center">A student on an island somewhere in Japan</h3>
+<h1 align="center">Nauti</h1>
 
-- 🔭 I’m currently working on **Bioinformatics**
-
-<h3 align="left">My Page:</h3>
-https://qiita.com/Yokohide
-<p align="left">
-</p>
+<h3 align="left">Portfolio:</h3>
+https://nauti-82z.pages.dev/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokohide0317&size_weight=0.5&count_weight=0.5)
 
